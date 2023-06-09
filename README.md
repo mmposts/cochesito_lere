@@ -21,7 +21,7 @@ Ejercicio de clases y Objetos
     - marca : str
     - modelo : str
     - matricula : str
-    - motor: { tipo | combustible | kw_bat }
+    - 
     - __str__()
 - Plaza:
     - numero: int
