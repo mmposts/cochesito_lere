@@ -35,6 +35,8 @@ Ejercicio de clases y Objetos
 - Parking:
     - CANT_PLAZAS = 200
     - Plazas: []
+    - aparcar(Coche)
+    - desaparcar(num_plaza)
     - listar()
     - listar_ocupadas()
     - listar_disponibles()
